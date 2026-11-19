@@ -1,0 +1,10 @@
+body{
+    font-family: 'Times New Roman',serif;
+    background-color: white;
+    padding: 20px;
+    
+}
+#changebin{
+    background-color:blue;
+    color: white;
+}
